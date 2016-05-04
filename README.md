@@ -17,8 +17,7 @@ npm install -g nodemon
 **For run 'nodemon', you can run (Assuming that your main file is 'server.js'):**
 ```
 nodemon server.js
-
-Use nodemon to have your server restart on file changes. Install nodemon using npm install -g nodemon. Then start your server with nodemon server.js.
+```
 
 
 ## My Comments
