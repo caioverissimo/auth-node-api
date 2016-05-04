@@ -1,0 +1,28 @@
+Todo list - CHARLES - NODE REST API
+===================================
+
+
+Minimum Marketing Features:
+- basic CRUD for all entities
+
+
+User Stories:
+- Update the remain methods that are still Products like
+
+
+Engineering Tasks:
+
+- Create error handling
+- Create friendly warning messages
+
+
+To Do on current task
+- Fix syntax for all new methods on other routes
+- Complete with variations of query 'Update' on Product
+
+
+Future ideas
+* Reestructure the project using module.export
+
+
+
