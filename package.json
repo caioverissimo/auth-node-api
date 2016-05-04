@@ -1,18 +1,8 @@
 {
   "name": "auth-node-api",
-  "version": "0.0.0",
-  "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/caioverissimo/auth-node-api.git"
   },
-  "author": "",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/caioverissimo/auth-node-api/issues"
-  }
 }
